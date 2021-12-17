@@ -1,5 +1,3 @@
-# SonarQube Image 
+# SonarQube Image
 
-This is a SonarQube image forked from the work done by Red Hat Open Innovation Labs for OpenShift:
-
-https://github.com/rht-labs/labs-ci-cd
+* Sonarqube image with version 8.9.5-community used in the [DevSecOps Pipeline Demo](https://github.com/rcarrata/devsecops-demo)

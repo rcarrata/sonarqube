@@ -418,7 +418,7 @@ parameters:
     displayName: LDAP Context Factory
     value: com.sun.jndi.ldap.LdapCtxFactory
   - name: SONAR_IMAGE
-    description: SonarQube container image 
-    displayName: SonarQube container image 
-    value: docker.io/siamaksade/sonarqube:latest
-    
+    description: SonarQube container image
+    displayName: SonarQube container image
+    value: quay.io/rcarrata/sonarqube:8.9.5-community
+
